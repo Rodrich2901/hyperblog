@@ -13,5 +13,7 @@ Un blog increíble pra el [curso de Git y Github](https://platzi.com/cursos/git-
 - El verdadero amor por la buenas prácticas
 - Trucos muy locos del profesor
 - Creado por el increible Rodrigo Beltrán
+- Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 
 Y como amable recordarorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y [**mejor ve a ver el curso**](https://platzi.com/cursos/git-github/ "mejor ve a ver el curso")
