@@ -51,6 +51,12 @@ body
     padding: 1em;         
 }
 
+#owner
+{
+    font-weight: bold;
+    color: darkblue;
+}
+
 #footer
 {
     background: #37488b;
