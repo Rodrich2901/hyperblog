@@ -1,7 +1,7 @@
 body 
 {
-    background: #1e1f24;
-    color: #333;
+    background: #2a2c35;
+    color: #344;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
@@ -11,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #37488b;
+    background: #001e97;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -59,7 +59,7 @@ body
 
 #footer
 {
-    background: #37488b;
+    background: rgb(12, 112, 104);
     color: white;
     text-align: center;
     padding: 0.5em;
